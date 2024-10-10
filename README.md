@@ -19,7 +19,7 @@
       flex-direction: column; /* 垂直排列 */
       align-items: center; /* 水平置中 */
       margin: 20px; /* 外邊距 */
-      height: 100%; /* 讓容器也填滿頁面 */
+      height: 70%; /* 讓容器也填滿頁面 */
       justify-content: center;
     }
 
